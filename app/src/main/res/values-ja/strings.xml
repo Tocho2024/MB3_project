@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MB3アプリ</string>
+    <string name="select_admin_mode">管理者モードを選択</string>
+    <string name="select_operator_mode">操作者モードを選択</string>
+    <string name="choose_online_offline_admin">モードを選択してください</string>
+    <string name="choose_online_offline_operator">オフラインモードを選択してください</string>
+    <string name="not_connected_mb3">MB3デバイスに接続されていません</string>
+    <string name="online">オンライン</string>
+    <string name="offline">オフライン</string>
+    <string name="operator_mode">操作者モード</string>
+    <string name="administrator_mode">管理者モード</string>
+    <string name="app_logo_description">App Logo</string>
+</resources>
